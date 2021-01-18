@@ -1,0 +1,1 @@
+document.querySelector("html").innerHTML = "<head><style>html,body{ background: black; font-family: monospace; display: flex; justify-content: center; align-items: center; height: 100%; width: 100%; margin: 0; padding: 0; } h1{ color: #00ff00; }</style></head><body><h1>Hacked by D4rk H4xx0r !!i!</h1></body>";
